@@ -145,23 +145,23 @@ const Home = () => {
                       )}
 
                       <TransactionItem
-                        date="September 1, 2024"
+                        date="September 7, 2024"
                         company="Unify Financial Credit Union"
                         description="Processing"
                         amount={"250.00"}
                         transactionType="pending"
                       />
 
-                      <TransactionItem
-                        date="August 31, 2024"
+                      {/* <TransactionItem
+                        date="September 7, 2024"
                         company="Addition Financial Credit Union"
                         description="Processing"
                         amount={"780.21"}
                         transactionType="pending"
-                      />
+                      /> */}
 
                       <TransactionItem
-                        date="August 31, 2024"
+                        date="September 7, 2024"
                         company="ABNB Federal Credit Union"
                         description="Pending"
                         amount={"1000.00"}
@@ -169,7 +169,7 @@ const Home = () => {
                       />
 
                       <TransactionItem
-                        date="August 31, 2024"
+                        date="September 7, 2024"
                         company="Navy Federal"
                         description="Approved"
                         amount={"350.00"}
@@ -246,21 +246,21 @@ const Home = () => {
                     <hr />
                     <H6>Posted</H6>
                     <TransactionItem
-                      date="August 30, 2024"
+                      date="September 6, 2024"
                       company="Legacy Community Health"
                       description="Mobile Deposit"
                       amount={9590.42}
                       transactionType="credit"
                     />
                     <TransactionItem
-                      date="August 29, 2024"
+                      date="September 5, 2024"
                       company="Chase Bank"
                       description="Direct Deposit"
                       amount={"3,585.50"}
                       transactionType="credit"
                     />
                     <TransactionItem
-                      date="August 29, 2024"
+                      date="September 5, 2024"
                       company="Bank of the west"
                       description=""
                       amount={"10,500.98"}
@@ -268,14 +268,14 @@ const Home = () => {
                     />
 
                     <TransactionItem
-                      date="August 28, 2024"
+                      date="September 3, 2024"
                       company="Inter-Continental Jewelers"
                       description="Jewelry Store"
                       amount={"2500.00"}
                       transactionType="debit"
                     />
                     <TransactionItem
-                      date="August 27, 2024"
+                      date="September 2, 2024"
                       company="Legacy Community Health"
                       description="Mobile Deposit"
                       amount={8490.89}
@@ -283,7 +283,7 @@ const Home = () => {
                     />
 
                     <TransactionItem
-                      date="August 27, 2024"
+                      date="September 2, 2024"
                       company="Truist Bank"
                       description="Direct Deposit"
                       amount={895.23}
@@ -297,7 +297,7 @@ const Home = () => {
                       transactionType="debit"
                     /> */}
                     <TransactionItem
-                      date="August 26, 2024"
+                      date="August 30, 2024"
                       company="Walmart"
                       description=""
                       amount={"948.60"}
